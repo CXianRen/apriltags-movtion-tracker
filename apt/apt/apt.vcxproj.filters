@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="lib">
+      <UniqueIdentifier>{1322588f-5893-4f92-ba1f-a85d8486d285}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{d10d884e-c4e8-4cf8-b6bd-eba7d9a25283}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\apriltags">
+      <UniqueIdentifier>{fd266a5c-0c0d-4bd6-a28b-1b68dbe511c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\apriltags\src">
+      <UniqueIdentifier>{6bcbbbaf-d971-487e-a011-42109cbc8ca4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\apriltags\src\common">
+      <UniqueIdentifier>{f154fb1f-d5bd-47cd-b892-68456fe03b5e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="LIB\opencv_world300.lib">
+      <Filter>lib</Filter>
+    </Library>
+    <Library Include="LIB\pthreadVC2.lib">
+      <Filter>lib</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="apt.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\apriltag.c">
+      <Filter>src\apriltags\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\apriltag_pose.c">
+      <Filter>src\apriltags\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\apriltag_quad_thresh.c">
+      <Filter>src\apriltags\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\tag16h5.c">
+      <Filter>src\apriltags\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\tag25h9.c">
+      <Filter>src\apriltags\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\tag36h11.c">
+      <Filter>src\apriltags\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\tagCircle21h7.c">
+      <Filter>src\apriltags\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\tagCircle49h12.c">
+      <Filter>src\apriltags\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\tagCustom48h12.c">
+      <Filter>src\apriltags\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\tagStandard41h12.c">
+      <Filter>src\apriltags\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\tagStandard52h13.c">
+      <Filter>src\apriltags\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\g2d.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\getopt.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\homography.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\image_u8.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\image_u8x3.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\image_u8x4.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\matd.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\pam.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\pjpeg.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\pjpeg-idct.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\pnm.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\string_util.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\svd22.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\time_util.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\unionfind.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\workerpool.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\zarray.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\zhash.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\apriltags3\src\common\zmaxheap.c">
+      <Filter>src\apriltags\src\common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="winnt.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,64 @@
+﻿  apriltag.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\apriltag.c(1432): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  apriltag_pose.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\apriltag_pose.c(543): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  apriltag_quad_thresh.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\apriltag_quad_thresh.c(1935): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  g2d.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\g2d.c(918): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  getopt.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\getopt.c(549): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  homography.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\homography.c(481): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  image_u8.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\image_u8.c(558): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  image_u8x3.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\image_u8x3.c(275): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  image_u8x4.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\image_u8x4.c(234): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  matd.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\matd.c(1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\matd.c(2023): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  pam.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\pam.c(257): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  pjpeg-idct.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\pjpeg-idct.c(389): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  pjpeg.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\pjpeg.c(887): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  pnm.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\pnm.c(156): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  string_util.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\string_util.c(773): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  svd22.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\svd22.c(264): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  time_util.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\time_util.c(163): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  unionfind.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\unionfind.c(31): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  workerpool.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\workerpool.c(217): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  zarray.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\zarray.c(58): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
+  Compiling...
+  zhash.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\zhash.c(563): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  zmaxheap.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\common\zmaxheap.c(423): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  tag16h5.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\tag16h5.c(117): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  tag25h9.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\tag25h9.c(140): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  tag36h11.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\tag36h11.c(714): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  tagCircle21h7.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\tagcircle21h7.c(135): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  tagCircle49h12.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\tagcircle49h12.c(65688): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  tagCustom48h12.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\tagcustom48h12.c(42362): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  tagStandard41h12.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\tagstandard41h12.c(2252): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  tagStandard52h13.c
+c:\users\xianren\desktop\apt_demo\apriltags3\src\tagstandard52h13.c(48873): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

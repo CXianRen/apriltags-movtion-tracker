@@ -1,0 +1,64 @@
+﻿  apt.cpp
+c:\users\xianren\desktop\apt_demo\opencv3.0_x86\include\opencv2\core\mat.hpp(1964): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\xianren\desktop\apt_demo\opencv3.0_x86\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\xianren\desktop\apt_demo\opencv3.0_x86\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\xianren\desktop\apt_demo\opencv3.0_x86\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\xianren\desktop\apt_demo\apriltags3\include\common\matd.h(48): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\xianren\desktop\apt_demo\apriltags3\include\common\matd.h(48): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+c:\users\xianren\desktop\apt_demo\pthread_x86\include\pthread.h(305): warning C4005: 'HAVE_STRUCT_TIMESPEC': macro redefinition
+  c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(31): note: see previous definition of 'HAVE_STRUCT_TIMESPEC'
+c:\users\xianren\desktop\apt_demo\apriltags3\include\apriltag_pose.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(154): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(155): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(157): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(158): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(160): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(161): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(163): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(164): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(176): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(175): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\xianren\desktop\apt_demo\apt\apt\apt.cpp(194): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  apt.vcxproj -> C:\Users\XianRen\Desktop\apt_demo\apt\Debug\apt.exe
